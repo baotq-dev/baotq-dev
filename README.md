@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently a student majoring in Computer Science at Ton Duc Thang University.
+I am a Computer Science graduate from Ton Duc Thang University, with a focus on Artificial Intelligence. I enjoy building things that combine AI/ML models - from training pipelines to real-world deployments.
 
 <!--
 **trnqbao/trnqbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
