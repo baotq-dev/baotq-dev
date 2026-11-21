@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI-First+Software+Developer;Full-Stack+%7C+Java+%2F+Spring+Boot+%2F+React;Turning+requirements+into+working+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Developer;Full-Stack+%7C+Java+%2F+Spring+Boot+%2F+React" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bao-tran-932b13247/">
@@ -15,10 +15,9 @@
 
 ### Hi, I'm Bao Tran 👋
 
-I'm a software developer with an **AI-first mindset** — leveraging modern AI tools to accelerate engineering workflows, code quality, and problem-solving. My background bridges a Computer Science foundation with practical engineering experience gained from **delivering enterprise web features and backend services** during internships at **FPT Software** and **ACACY**.
+Software developer with a Computer Science background and practical engineering experience from internships at **FPT Software** and **ACACY**, where I delivered enterprise web features and backend services.
 
-- 🎓 **B.Sc. in Computer Science** — Ton Duc Thang University
-- 🔭 **Currently Building:** [Point-of-Sales System](https://github.com/baotq-dev/point-of-sales) (Multi-convenience store platform)
+- 🎓 **B.Sc. in Computer Science** - Ton Duc Thang University
 - 🌱 **Focus Areas:** Enterprise Java (Spring Boot), Distributed Caching, AI Agent Integration
 
 ---
@@ -28,14 +27,6 @@ I'm a software developer with an **AI-first mindset** — leveraging modern AI t
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,react,postgres,mysql,redis,docker,python,git&theme=dark" alt="Tech stack icons" />
 </div>
-
----
-
-### 🚀 Featured Project
-
-| Project | Highlights | Tech Stack |
-| :--- | :--- | :--- |
-| **[Point-of-Sales System](https://github.com/baotq-dev/point-of-sales)** | Multi-branch convenience store backend with RBAC, product catalog, cart/order pipelines, and transactional safety. | Spring Boot, Spring Security, Redis, PostgreSQL, React |
 
 ---
 
